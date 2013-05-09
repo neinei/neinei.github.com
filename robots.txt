@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://neinei.github.io/sitemap.xml 
